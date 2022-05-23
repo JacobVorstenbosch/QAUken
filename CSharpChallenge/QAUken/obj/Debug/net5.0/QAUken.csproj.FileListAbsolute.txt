@@ -1,0 +1,32 @@
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\bin\Debug\net5.0\QAUken.exe
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\bin\Debug\net5.0\QAUken.deps.json
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\bin\Debug\net5.0\QAUken.runtimeconfig.json
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\bin\Debug\net5.0\QAUken.runtimeconfig.dev.json
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\bin\Debug\net5.0\QAUken.dll
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\bin\Debug\net5.0\ref\QAUken.dll
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\bin\Debug\net5.0\QAUken.pdb
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\obj\Debug\net5.0\QAUken.csproj.AssemblyReference.cache
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\obj\Debug\net5.0\QAUken.GeneratedMSBuildEditorConfig.editorconfig
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\obj\Debug\net5.0\QAUken.AssemblyInfoInputs.cache
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\obj\Debug\net5.0\QAUken.AssemblyInfo.cs
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\obj\Debug\net5.0\QAUken.csproj.CoreCompileInputs.cache
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\obj\Debug\net5.0\QAUken.dll
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\obj\Debug\net5.0\ref\QAUken.dll
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\obj\Debug\net5.0\QAUken.pdb
+E:\QA Engineer Challenge\QAUken\QAUken\QAUken\obj\Debug\net5.0\QAUken.genruntimeconfig.cache
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\bin\Debug\net5.0\QAUken.exe
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\bin\Debug\net5.0\QAUken.deps.json
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\bin\Debug\net5.0\QAUken.runtimeconfig.json
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\bin\Debug\net5.0\QAUken.runtimeconfig.dev.json
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\bin\Debug\net5.0\QAUken.dll
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\bin\Debug\net5.0\ref\QAUken.dll
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\bin\Debug\net5.0\QAUken.pdb
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\obj\Debug\net5.0\QAUken.csproj.AssemblyReference.cache
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\obj\Debug\net5.0\QAUken.GeneratedMSBuildEditorConfig.editorconfig
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\obj\Debug\net5.0\QAUken.AssemblyInfoInputs.cache
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\obj\Debug\net5.0\QAUken.AssemblyInfo.cs
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\obj\Debug\net5.0\QAUken.csproj.CoreCompileInputs.cache
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\obj\Debug\net5.0\QAUken.dll
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\obj\Debug\net5.0\ref\QAUken.dll
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\obj\Debug\net5.0\QAUken.pdb
+E:\QA\Work_Repos\QAUken\CSharpChallenge\QAUken\obj\Debug\net5.0\QAUken.genruntimeconfig.cache
