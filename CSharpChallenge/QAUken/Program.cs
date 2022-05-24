@@ -13,6 +13,8 @@ namespace QAUken
             Test("3.txt");
             Test("4.txt");
             Test("5.txt");
+            Console.WriteLine("Press Any Key to Exit.");
+            Console.ReadKey(true);
         }
         //To Add - make this take a string that can be added on to the relative path of the text so that I can just call all the tests.
         public static void Test(string fileName)
@@ -73,6 +75,7 @@ namespace QAUken
 
             Console.WriteLine("File: "+ fileName + ", Number: " + smallestKey + ", Repeated: " + dict[smallestKey] + " times.");
         }
+
     }
     
 }
